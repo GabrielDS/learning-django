@@ -11,8 +11,6 @@
     - :warning:	 :fire:Flame War:fire: :fire_engine:
   - [ ] [[PODCAST] Talk Python To Me - Episode #161: Django 2.0](https://talkpython.fm/episodes/show/161/django-2.0)
 
-
-
 - How does Django work?
   - [ ] [[YOUTUBE] What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
   - [ ] [[YOUTUBE] Requests and Responses in Django](https://www.youtube.com/watch?v=Lwp73bSaplo)
@@ -29,6 +27,23 @@
   - [ ] [[MEDIUM] Advantages and Disadvantages of Django](https://hackernoon.com/advantages-and-disadvantages-of-django-499b1e20a2c5)
   
 ### QuickStart Projects 
+> TODO
+
+**Note**:
+
+Some of you, when start to run **```python manage.py migrate```**, will get a error like: ```ModuleNotFoundError: No module named _sqlite3```. This occurs cause, for somehow, the package sqlite3 wasn't installed. 
+
+**Linux**
+  
+  - First, run this code on your console:
+    - ```apt-get install libsqlite3-dev```
+  
+  - Download the Python in tar.xz extension and extract it. 
+  
+  - Go to downloaded python source and run this command: 
+    - ```./configure --enable-loadable-sqlite-extensions && make && sudo make install```
+
+**Windows**
 > TODO
 
 # Full Courses and Tutoriais
