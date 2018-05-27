@@ -26,16 +26,16 @@
     - [ ] [[VIDEO] When would you not use Django?](https://www.youtube.com/watch?v=xh8HasMvdTw)
     - [ ] [[MEDIUM] Advantages and Disadvantages of Django](https://hackernoon.com/advantages-and-disadvantages-of-django-499b1e20a2c5)
   
-  - ### Let's Code 
+- ### Let's Code 
 
-    *__"I hear and I forget. I see and I remember. I do and I understand."__*
+  *__"I hear and I forget. I see and I remember. I do and I understand."__*
 
-    - My first Hello World
+  - My first Hello World
     - [ ] [[BLOG] A Complete Beginner's Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html#installation)
 
   **Note**:
 
-      Some of you, when start to run **```python manage.py migrate```**, will get a error like: ```ModuleNotFoundError: No module named _sqlite3```. This occurs cause, for somehow, the package sqlite3 wasn't installed. 
+    Some of you, when start to run **```python manage.py migrate```**, will get a error like: ```ModuleNotFoundError: No module named _sqlite3```. This occurs cause, for somehow, the package sqlite3 wasn't installed. 
 
   **Linux**
   
