@@ -54,7 +54,10 @@
     > NO MONEY
 
 
+- ### Django 2.0 is the new green
 
+  - In views.py, instead use ```urls()``` to configure routes(that we have to use RegEx), now, we have ```path()``` that... yes.. we doesn't need to use RegEx anymore.
+  
 # Full Courses and Tutoriais
 - [Getting started with Django](https://www.djangoproject.com/start/)
 
