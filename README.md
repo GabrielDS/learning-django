@@ -7,6 +7,10 @@
 - Django Apps - What are they? Where do they live? What are they do? 
   - [ ] [[VIDEO] Django Tutorial #1 - What is Django?](https://www.youtube.com/watch?v=n-FTlQ7Djqc)
   - [ ] [[QUORA] What is Django? Where is it used? What is the best site to learn it?](https://www.quora.com/What-is-Django-Where-is-it-used-What-is-the-best-site-to-learn-it)
+  - [ ] [[YOUTUBE] Why use Django? Django vs Rails, Node.js, PHP Frameworks](https://www.youtube.com/watch?v=topjvXzjdYM)
+    - :warning:	 :fire:Flame War:fire: :fire_engine:
+  - [ ] [[PODCAST] Talk Python To Me - Episode #161: Django 2.0](https://talkpython.fm/episodes/show/161/django-2.0)
+
 
 
 - How does Django work?
@@ -19,15 +23,15 @@
 
 - For God's sake! What hell is object-relational mapper?
   - [ ] [[YOUTUBE] Introduction to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
-  - [ ] 
 
 - Where to use and not use Django?
   - [ ] [[VIDEO] When would you not use Django?](https://www.youtube.com/watch?v=xh8HasMvdTw)
   - [ ] [[MEDIUM] Advantages and Disadvantages of Django](https://hackernoon.com/advantages-and-disadvantages-of-django-499b1e20a2c5)
   
-### 
+### QuickStart Projects 
+> TODO
 
-## Full Courses and Tutoriais
+# Full Courses and Tutoriais
 - [Getting started with Django](https://www.djangoproject.com/start/)
 
 - [Learning Django in 4 hours](http://slash4.net/blog/django-tutorial/learn-django-introduction-and-basics.html)
