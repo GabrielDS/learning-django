@@ -29,6 +29,19 @@
 - ### Let's Code 
 
   *__"I hear and I forget. I see and I remember. I do and I understand."__*
+  
+  **Before all, it's good to get familiar the syntax, structure, organization and other things of a real-world project. And the best way to see a real project is take a look of some repositories on GitHub. Let me show you some interesting projects with Django:**
+  
+  - [ ] [Django Project Blueprints](https://github.com/PacktPublishing/Django-Projects-Blueprints)
+  
+  - [ ] [CircleCI Demo Application](https://github.com/CircleCI-Public/circleci-demo-python-django/tree/master/catalog)
+  
+  - [ ] [ES Django Example](https://github.com/HonzaKral/es-django-example)
+  
+  - [ ] [Django Project](https://github.com/django/djangoproject.com)
+  
+  **Note**
+  > TODO
 
   - My first Hello World
     - [ ] [[BLOG] A Complete Beginner's Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html#installation)
